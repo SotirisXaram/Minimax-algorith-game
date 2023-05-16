@@ -1,6 +1,6 @@
-#MINIMAX ALGORITHM GAME USING JAVASCRIPT
+# MINIMAX ALGORITHM GAME USING JAVASCRIPT
 
-###description
+### description
 
 A program that will play against a player the following game of two players taking turns, the rules of which are given below:
 
